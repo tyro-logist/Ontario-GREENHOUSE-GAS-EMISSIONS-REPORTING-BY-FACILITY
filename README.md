@@ -1,7 +1,7 @@
 # Ontario-GREENHOUSE-GAS-EMISSIONS-REPORTING-BY-FACILITY
 2010-2020 Specified GHG Activities
 
-Just testing the use of GPT3 in for data analysis
+Just testing the use of GPT3 for data analysis
 
 GPT3:
 Exploratory Data Analysis (EDA) is a method of analyzing and summarizing data in order to identify patterns, relationships, and trends. For the given data, some possible steps for EDA include:
